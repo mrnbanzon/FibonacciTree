@@ -9,8 +9,8 @@ const fibonacciTree = {
     container: '#fibonacci-tree',
     connectors: { type: 'straight' },
     levelSeparation: 15,
-    siblingSeparation: 10,
-    subTeeSeparation: 10
+    siblingSeparation: 15,
+    subTeeSeparation: 15
   },
   nodeStructure: {}
 };
